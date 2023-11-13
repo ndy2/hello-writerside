@@ -8,7 +8,7 @@
     <toc-element topic="Default-topic.md"/>
     <toc-element topic="Section-Starting-Page.topic"/>
     <toc-element topic="sbt.md">
-        <toc-element topic="LibraryDependencies.md" ></toc-element>
+        <toc-element topic="LibraryDependencies.md"/>
     </toc-element>
     <toc-element toc-title="Get started" target-for-accept-web-file-names="https://www.jetbrains.com/help/writerside/discover-writerside.html">
 </instance-profile>
