@@ -3,8 +3,12 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Help Instance"
+                 name="Welcome"
                  start-page="Default-topic.md">
-
     <toc-element topic="Default-topic.md"/>
+    <toc-element topic="sbt.md">
+        <toc-element topic="LibraryDependencies.md" toc-title="Library Dependencies">
+
+        </toc-element>
+    </toc-element>
 </instance-profile>
